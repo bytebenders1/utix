@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/quota-controls",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/quota-controls": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/quota-controls",
+    "origin"
+  ]
+}
